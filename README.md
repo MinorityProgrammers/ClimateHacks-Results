@@ -10,7 +10,7 @@ Minority Programmers Association is proud to sponsor and announce the winners to
 Videos: 
 * ClimateHacks Promo https://youtu.be/TgX5HG9Yk2Y
 * ClimateHacks KickOff https://youtu.be/oks8Fwfz2es
-* ClimateHacks Prize Ceremony
+* ClimateHacks Prize Ceremony https://youtu.be/NMQoOAhB4iw
 * How to Setup Up Digital Payments to Collect Prize https://youtu.be/f8HlCfAIFqg
 
 ## WINNERS ($1000 in prizes)
