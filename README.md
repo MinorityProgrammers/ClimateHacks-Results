@@ -3,6 +3,13 @@
     <img src="https://github.com/MinorityProgrammers/graphics/blob/master/MPA-Exec.png?raw=true" alt="MPA Logo logo" title="MPA Research" align="right" height="60" />
 </a>
 
+Videos: 
+* ClimateHacks Promo https://youtu.be/TgX5HG9Yk2Y
+* ClimateHacks KickOff https://youtu.be/oks8Fwfz2es
+* ClimateHacks Prize Ceremony
+* How to Setup Up Digital Payments to Collect Prize https://youtu.be/f8HlCfAIFqg
+
+
 
 # ClimateHacks-Results
 Minority Programmers Association is proud to sponsor and announce the winners to the inaugural ClimateHacks competition
