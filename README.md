@@ -3,7 +3,8 @@
     <img src="https://github.com/MinorityProgrammers/graphics/blob/master/MPA-Exec.png?raw=true" alt="MPA Logo logo" title="MPA Research" align="right" height="60" />
 </a>
 
-
+:star: Star us on GitHub — it motivates us a lot!
+:earth:
 # ClimateHacks-Results
 Minority Programmers Association is proud to sponsor and announce the winners to the inaugural ClimateHacks competition
 
@@ -115,8 +116,7 @@ How to claim your prize https://youtu.be/f8HlCfAIFqg
 ## Links
 
 * [MPA Web site](http://minorityprogrammers.com/)
-* [Github](http://minorityprogrammers.com/)
-* [ClimateHacks Website](http://minorityprogrammers.com/)
+* [Github](https://github.com/MinorityProgrammers)
 * [MPA Discord](https://discord.gg/zGBrEd7UCn)
 * [Twitter](https://twitter.com/minorityprogram)
 * [Facebook](https://www.facebook.com/MinorityProgrammers)
