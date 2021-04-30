@@ -4,7 +4,6 @@
 </a>
 
 :star: Star us on GitHub — it motivates us a lot!
-:globe:
 # ClimateHacks-Results
 Minority Programmers Association is proud to sponsor and announce the winners to the inaugural ClimateHacks competition
 
